@@ -1,0 +1,77 @@
+The list of activities is: 
+Activity 41: 
+- date: 2013-04-01, time: 07:00:00 - 08:00:00 
+- participants: ['Person 1059 - name: Oliver, phoneNumber: 2125550226', 'Person 1066 - name: Mia, phoneNumber: 9709498797', 'Person 1003 - name: Sophia, phoneNumber: 8887392189', 'Person 1053 - name: Lucas, phoneNumber: 4944521625', 'Person 1043 - name: Amelia, phoneNumber: 4073653798', 'Person 1090 - name: Olivia, phoneNumber: 9763674757', 'Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1096 - name: Henry, phoneNumber: 2666707660'] 
+- description: volunteering.
+Activity 54: 
+- date: 2015-02-16, time: 05:00:00 - 18:00:00 
+- participants: ['Person 1090 - name: Olivia, phoneNumber: 9763674757', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1059 - name: Oliver, phoneNumber: 2125550226'] 
+- description: birthday.
+Activity 52: 
+- date: 2023-09-11, time: 15:00:00 - 22:00:00 
+- participants: ['Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1035 - name: Oliver, phoneNumber: 3095142832', 'Person 1017 - name: Henry, phoneNumber: 4205843950', 'Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1042 - name: Liam, phoneNumber: 4133729276'] 
+- description: game night.
+Activity 65: 
+- date: 2011-05-19, time: 11:00:00 - 18:00:00 
+- participants: ['Person 1042 - name: Liam, phoneNumber: 4133729276', 'Person 1043 - name: Amelia, phoneNumber: 4073653798', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1060 - name: Luna, phoneNumber: 4138747657', 'Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1069 - name: Benjamin, phoneNumber: 6580820791', 'Person 1015 - name: Lucas, phoneNumber: 4645993819', 'Person 1072 - name: William, phoneNumber: 0943189240'] 
+- description: workout.
+Activity 5: 
+- date: 2020-03-18, time: 13:00:00 - 17:00:00 
+- participants: ['Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1066 - name: Mia, phoneNumber: 9709498797', 'Person 1017 - name: Henry, phoneNumber: 4205843950', 'Person 1036 - name: Theo, phoneNumber: 0369343935', 'Person 1015 - name: Lucas, phoneNumber: 4645993819', 'Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1096 - name: Henry, phoneNumber: 2666707660'] 
+- description: walk.
+Activity 88: 
+- date: 2018-01-21, time: 15:00:00 - 21:00:00 
+- participants: ['Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1036 - name: Theo, phoneNumber: 0369343935', 'Person 1042 - name: Liam, phoneNumber: 4133729276'] 
+- description: birthday.
+Activity 83: 
+- date: 2029-09-28, time: 06:00:00 - 10:00:00 
+- participants: ['Person 1036 - name: Theo, phoneNumber: 0369343935', 'Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1017 - name: Henry, phoneNumber: 4205843950', 'Person 1053 - name: Lucas, phoneNumber: 4944521625', 'Person 1099 - name: Isabella, phoneNumber: 8133166395'] 
+- description: workout.
+Activity 90: 
+- date: 2011-04-20, time: 21:00:00 - 21:00:00 
+- participants: ['Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1035 - name: Oliver, phoneNumber: 3095142832', 'Person 1059 - name: Oliver, phoneNumber: 2125550226', 'Person 1053 - name: Lucas, phoneNumber: 4944521625', 'Person 1072 - name: William, phoneNumber: 0943189240', 'Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1090 - name: Olivia, phoneNumber: 9763674757', 'Person 1096 - name: Henry, phoneNumber: 2666707660', 'Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1042 - name: Liam, phoneNumber: 4133729276'] 
+- description: birthday.
+Activity 72: 
+- date: 2012-01-10, time: 17:00:00 - 21:00:00 
+- participants: ['Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1060 - name: Luna, phoneNumber: 4138747657'] 
+- description: work.
+Activity 85: 
+- date: 2017-03-08, time: 09:00:00 - 15:00:00 
+- participants: ['Person 1060 - name: Luna, phoneNumber: 4138747657'] 
+- description: holiday.
+Activity 21: 
+- date: 2023-09-13, time: 19:00:00 - 19:00:00 
+- participants: ['Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1035 - name: Oliver, phoneNumber: 3095142832'] 
+- description: walk.
+Activity 40: 
+- date: 2016-03-28, time: 16:00:00 - 19:00:00 
+- participants: ['Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1096 - name: Henry, phoneNumber: 2666707660', 'Person 1090 - name: Olivia, phoneNumber: 9763674757', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1066 - name: Mia, phoneNumber: 9709498797', 'Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1053 - name: Lucas, phoneNumber: 4944521625', 'Person 1035 - name: Oliver, phoneNumber: 3095142832', 'Person 1015 - name: Lucas, phoneNumber: 4645993819', 'Person 1043 - name: Amelia, phoneNumber: 4073653798', 'Person 1007 - name: Olivia, phoneNumber: 9336120650'] 
+- description: game night.
+Activity 8: 
+- date: 2015-05-15, time: 05:00:00 - 12:00:00 
+- participants: ['Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1072 - name: William, phoneNumber: 0943189240', 'Person 1090 - name: Olivia, phoneNumber: 9763674757', 'Person 1059 - name: Oliver, phoneNumber: 2125550226', 'Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1053 - name: Lucas, phoneNumber: 4944521625', 'Person 1036 - name: Theo, phoneNumber: 0369343935', 'Person 1042 - name: Liam, phoneNumber: 4133729276', 'Person 1069 - name: Benjamin, phoneNumber: 6580820791', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1015 - name: Lucas, phoneNumber: 4645993819', 'Person 1066 - name: Mia, phoneNumber: 9709498797'] 
+- description: holiday.
+Activity 9: 
+- date: 2021-11-07, time: 09:00:00 - 11:00:00 
+- participants: ['Person 1017 - name: Henry, phoneNumber: 4205843950', 'Person 1072 - name: William, phoneNumber: 0943189240', 'Person 1015 - name: Lucas, phoneNumber: 4645993819', 'Person 1096 - name: Henry, phoneNumber: 2666707660', 'Person 1042 - name: Liam, phoneNumber: 4133729276', 'Person 1013 - name: Amelia, phoneNumber: 1219699903'] 
+- description: workout.
+Activity 47: 
+- date: 2012-10-13, time: 10:00:00 - 14:00:00 
+- participants: ['Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1053 - name: Lucas, phoneNumber: 4944521625', 'Person 1003 - name: Sophia, phoneNumber: 8887392189', 'Person 1036 - name: Theo, phoneNumber: 0369343935'] 
+- description: holiday.
+Activity 94: 
+- date: 2010-03-23, time: 18:00:00 - 19:00:00 
+- participants: ['Person 1017 - name: Henry, phoneNumber: 4205843950', 'Person 1069 - name: Benjamin, phoneNumber: 6580820791', 'Person 1096 - name: Henry, phoneNumber: 2666707660', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1035 - name: Oliver, phoneNumber: 3095142832'] 
+- description: holiday.
+Activity 13: 
+- date: 2017-07-02, time: 05:00:00 - 20:00:00 
+- participants: ['Person 1013 - name: Amelia, phoneNumber: 1219699903', 'Person 1072 - name: William, phoneNumber: 0943189240', 'Person 1066 - name: Mia, phoneNumber: 9709498797', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1059 - name: Oliver, phoneNumber: 2125550226', 'Person 1036 - name: Theo, phoneNumber: 0369343935', 'Person 1003 - name: Sophia, phoneNumber: 8887392189', 'Person 1090 - name: Olivia, phoneNumber: 9763674757'] 
+- description: walk.
+Activity 27: 
+- date: 2015-01-25, time: 11:00:00 - 14:00:00 
+- participants: [] 
+- description: work.
+Activity 67: 
+- date: 2014-09-28, time: 04:00:00 - 20:00:00 
+- participants: ['Person 1036 - name: Theo, phoneNumber: 0369343935', 'Person 1015 - name: Lucas, phoneNumber: 4645993819', 'Person 1007 - name: Olivia, phoneNumber: 9336120650', 'Person 1003 - name: Sophia, phoneNumber: 8887392189', 'Person 1045 - name: William, phoneNumber: 2814835679', 'Person 1059 - name: Oliver, phoneNumber: 2125550226', 'Person 1004 - name: Elijah, phoneNumber: 1134602783', 'Person 1017 - name: Henry, phoneNumber: 4205843950', 'Person 1042 - name: Liam, phoneNumber: 4133729276', 'Person 1043 - name: Amelia, phoneNumber: 4073653798', 'Person 1035 - name: Oliver, phoneNumber: 3095142832', 'Person 1066 - name: Mia, phoneNumber: 9709498797', 'Person 1099 - name: Isabella, phoneNumber: 8133166395', 'Person 1053 - name: Lucas, phoneNumber: 4944521625'] 
+- description: workout.
